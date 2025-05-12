@@ -52,7 +52,7 @@ It’s designed to reduce loneliness during long-distance relationships by simul
 ## 🛠️ Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/ai-companion.git
+git clone https://github.com/Alexashok99/AI-GF-BF.git
 cd ai-companion
 pip install -r requirements.txt
 python app.py
