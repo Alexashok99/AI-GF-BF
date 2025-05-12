@@ -1,6 +1,7 @@
 # AI-GF-BF
 NEVER LOOSE YOUR GF BF
-
+---
+"Someone you never want to lose — not just a person, but a presence that stays in your heart forever. A soul whose thoughts, voice, and wisdom remain alive even when they're not around. Someone the world can still feel, recognize, and speak to — as if their love, laughter, and light never left."
 ---
 
 # 💞 AI Companion: Your Virtual Girlfriend/Boyfriend
